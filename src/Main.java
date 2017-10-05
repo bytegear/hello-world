@@ -9,4 +9,9 @@ public class Main {
         }
     }
 
+    public static int method(String s){
+        System.out.println(s);
+        return 0;
+    }
+
 }
