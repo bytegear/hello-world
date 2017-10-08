@@ -25,8 +25,8 @@ public class Main {
         }
     }
 
-    public static void MASTER() {
-        System.out.println("MASTER");
+    public static void BRANCH() {
+        System.out.println("BRANCH");
     }
 
 }
