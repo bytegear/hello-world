@@ -25,4 +25,8 @@ public class Main {
         }
     }
 
+    public static void MASTER() {
+        System.out.println("MASTER");
+    }
+
 }
