@@ -19,4 +19,10 @@ public class Main {
         method("Hallo", 100);
     }
 
+    public static void method3() {
+        for (int i = 0; i < 5; ++i) {
+            method2();
+        }
+    }
+
 }
