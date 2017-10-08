@@ -15,4 +15,14 @@ public class Main {
         return 0;
     }
 
+    public static void method2() {
+        method("Hallo", 100);
+    }
+
+    public static void method3() {
+        for (int i = 0; i < 5; ++i) {
+            method2();
+        }
+    }
+
 }
