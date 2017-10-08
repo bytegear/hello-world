@@ -29,4 +29,6 @@ public class Main {
         System.out.println("BRANCH");
     }
 
+    public void HALLO() {}
+
 }
