@@ -9,8 +9,9 @@ public class Main {
         }
     }
 
-    public static int method(String s){
+    public static int method(String s, int i){
         System.out.println(s);
+        System.out.println(i);
         return 0;
     }
 
